@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-類比模型/
+spice_model/
 
-dco類比數據/
+dco_data/
